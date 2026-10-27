@@ -187,5 +187,4 @@ Python, pandas, NumPy, scikit-learn, SHAP, LIME, Matplotlib, Jupyter
 
 ## 👤 Author
 
-**I Made Bimantoro Mastra**, data science learner with a background in 3D art and animation.
-Developed as a learning project during a data science bootcamp.
+**I Made Bimantoro Mastra**
