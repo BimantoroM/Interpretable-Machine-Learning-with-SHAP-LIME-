@@ -8,7 +8,6 @@
 ![LIME](https://img.shields.io/badge/LIME-Explainability-1B9AAA)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
 
-🇮🇩 [Baca dalam Bahasa Indonesia](README_ID.md)
 
 ---
 
