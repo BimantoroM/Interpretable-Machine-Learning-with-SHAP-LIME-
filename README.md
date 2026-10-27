@@ -157,13 +157,9 @@ Long tenure and long contracts lower churn risk, while fiber optic service, elec
 ## 📁 Repository Structure
 
 ```
-telco_churn_lime_shap/
-├── README.md
-├── README_ID.md
-├── requirements.txt
-├── churn_lime_shap.ipynb
-├── WA_Fn-UseC_-Telco-Customer-Churn.csv
-└── images/
+Interpretable-Machine-Learning-with-SHAP-LIME-/
+├── Interpretable_Machine_Learning_with_SHAP_&_LIME.ipynb
+└── README.md
 ```
 
 ---
